@@ -31,7 +31,7 @@ export default create({
   // inputTextColor: 'black',
   // inputBorderRadius: 4,
 
-  brandTitle: 'Master Publisher',
-  brandUrl: 'https://publisher.hapas.io/',
+  brandTitle: 'Typescript Storybook Template',
+  brandUrl: '/',
   // brandImage: 'https://placehold.it/350x150',
 });
