@@ -1,4 +1,4 @@
-import * as theme from '@style/themes/theme';
+import * as theme from './theme';
 
 const themes = [
   {
