@@ -5,3 +5,5 @@
 <p align="center">
  typescript storybook template
 </p>
+
+![](https://img.shields.io/badge/storybook-6.0.16-%23FE4785)
